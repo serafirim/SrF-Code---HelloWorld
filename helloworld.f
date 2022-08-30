@@ -2,9 +2,9 @@ in "systems";
 in "Lang";
 in "input";
 
-use Main 
+use Main
 
-int run ()
+int run as Master ()
 {
    // push me
    out >> "Hello World" << newline;
